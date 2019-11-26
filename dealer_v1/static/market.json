@@ -1,0 +1,11 @@
+{
+    "shops":[
+        {"id":1,"shopImg":"http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg","shopName":"商品商品商品商品商品商品商品商品商品商品商品","shopPrice":"0.5/支","checked":true},
+        {"id":2,"shopImg":"http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg","shopName":"商品商品商品商品商品商品商品商品商品商品商品","shopPrice":"0.5/支","checked":true},
+        {"id":3,"shopImg":"http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg","shopName":"商品商品商品商品商品商品商品商品商品商品商品","shopPrice":"0.5/支","checked":true},
+        {"id":4,"shopImg":"http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg","shopName":"商品商品商品商品商品商品商品商品商品商品商品","shopPrice":"0.5/支","checked":true},
+        {"id":5,"shopImg":"http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg","shopName":"商品商品商品商品商品商品商品商品商品商品商品","shopPrice":"0.5/支","checked":false},
+        {"id":6,"shopImg":"http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg","shopName":"商品商品商品商品商品商品商品商品商品商品商品","shopPrice":"0.5/支","checked":true},
+        {"id":7,"shopImg":"http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg","shopName":"商品商品商品商品商品商品商品商品商品商品商品","shopPrice":"0.5/支","checked":true}
+    ]
+}
